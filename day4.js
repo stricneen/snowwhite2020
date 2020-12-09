@@ -1,5 +1,5 @@
 const aoc = require('./aoc');
-const buffer = aoc.readfile('day3.txt');
+const buffer = aoc.readfile('day4.txt');
 const text = buffer.split(/\n/);
 
 
