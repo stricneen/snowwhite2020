@@ -1,0 +1,12 @@
+1,02:07,Dwarf #1,Starts
+1,07:52,Dwarf #1,Finishes
+1,03:04,Dwarf #2,Starts
+1,13:37,Dwarf #2,Finishes
+2,02:58,Dwarf #1,Starts
+2,06:10,Dwarf #1,Falls Asleep
+2,08:14,Dwarf #1,Wakes Up
+2,12:16,Dwarf #1,Finishes
+2,03:03,Dwarf #2,Starts
+2,05:22,Dwarf #2,Falls Asleep
+2,13:05,Dwarf #2,Wakes Up
+2,19:59,Dwarf #2,Finishes

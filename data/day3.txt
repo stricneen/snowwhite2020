@@ -1,0 +1,420 @@
+1,03:12,Dwarf #1,Starts
+1,22:58,Dwarf #1,Finishes
+1,02:21,Dwarf #2,Starts
+1,21:41,Dwarf #2,Finishes
+1,02:48,Dwarf #3,Starts
+1,23:38,Dwarf #3,Finishes
+1,01:51,Dwarf #4,Starts
+1,09:25,Dwarf #4,Falls Asleep
+1,10:38,Dwarf #4,Wakes Up
+1,21:34,Dwarf #4,Finishes
+1,01:30,Dwarf #5,Starts
+1,10:06,Dwarf #5,Falls Asleep
+1,11:12,Dwarf #5,Wakes Up
+1,23:41,Dwarf #5,Finishes
+1,02:37,Dwarf #6,Starts
+1,22:10,Dwarf #6,Finishes
+1,01:37,Dwarf #7,Starts
+1,07:30,Dwarf #7,Falls Asleep
+1,08:43,Dwarf #7,Wakes Up
+1,23:26,Dwarf #7,Finishes
+2,03:08,Dwarf #1,Starts
+2,21:30,Dwarf #1,Finishes
+2,01:44,Dwarf #2,Starts
+2,10:11,Dwarf #2,Falls Asleep
+2,11:17,Dwarf #2,Wakes Up
+2,22:56,Dwarf #2,Finishes
+2,01:33,Dwarf #3,Starts
+2,08:55,Dwarf #3,Falls Asleep
+2,10:19,Dwarf #3,Wakes Up
+2,22:15,Dwarf #3,Finishes
+2,02:33,Dwarf #4,Starts
+2,21:52,Dwarf #4,Finishes
+2,01:58,Dwarf #5,Starts
+2,10:25,Dwarf #5,Falls Asleep
+2,11:34,Dwarf #5,Wakes Up
+2,20:09,Dwarf #5,Finishes
+2,02:21,Dwarf #6,Starts
+2,18:23,Dwarf #6,Finishes
+2,01:12,Dwarf #7,Starts
+2,08:37,Dwarf #7,Falls Asleep
+2,10:34,Dwarf #7,Wakes Up
+2,20:08,Dwarf #7,Finishes
+3,02:16,Dwarf #1,Starts
+3,22:45,Dwarf #1,Finishes
+3,03:28,Dwarf #2,Starts
+3,23:39,Dwarf #2,Finishes
+3,01:53,Dwarf #3,Starts
+3,11:26,Dwarf #3,Falls Asleep
+3,13:02,Dwarf #3,Wakes Up
+3,23:46,Dwarf #3,Finishes
+3,02:12,Dwarf #4,Starts
+3,19:05,Dwarf #4,Finishes
+3,01:14,Dwarf #5,Starts
+3,08:53,Dwarf #5,Falls Asleep
+3,10:11,Dwarf #5,Wakes Up
+3,22:56,Dwarf #5,Finishes
+3,01:46,Dwarf #6,Starts
+3,07:21,Dwarf #6,Falls Asleep
+3,09:12,Dwarf #6,Wakes Up
+3,21:31,Dwarf #6,Finishes
+3,01:41,Dwarf #7,Starts
+3,08:03,Dwarf #7,Falls Asleep
+3,09:19,Dwarf #7,Wakes Up
+3,23:08,Dwarf #7,Finishes
+4,01:39,Dwarf #1,Starts
+4,08:51,Dwarf #1,Falls Asleep
+4,10:04,Dwarf #1,Wakes Up
+4,21:07,Dwarf #1,Finishes
+4,01:08,Dwarf #2,Starts
+4,06:09,Dwarf #2,Falls Asleep
+4,07:57,Dwarf #2,Wakes Up
+4,22:52,Dwarf #2,Finishes
+4,03:27,Dwarf #3,Starts
+4,19:27,Dwarf #3,Finishes
+4,01:33,Dwarf #4,Starts
+4,06:56,Dwarf #4,Falls Asleep
+4,08:01,Dwarf #4,Wakes Up
+4,21:49,Dwarf #4,Finishes
+4,01:40,Dwarf #5,Starts
+4,07:04,Dwarf #5,Falls Asleep
+4,08:05,Dwarf #5,Wakes Up
+4,23:39,Dwarf #5,Finishes
+4,03:52,Dwarf #6,Starts
+4,18:52,Dwarf #6,Finishes
+4,02:35,Dwarf #7,Starts
+4,20:07,Dwarf #7,Finishes
+5,02:41,Dwarf #1,Starts
+5,18:35,Dwarf #1,Finishes
+5,01:05,Dwarf #2,Starts
+5,08:53,Dwarf #2,Falls Asleep
+5,10:43,Dwarf #2,Wakes Up
+5,21:47,Dwarf #2,Finishes
+5,01:23,Dwarf #3,Starts
+5,10:50,Dwarf #3,Falls Asleep
+5,12:12,Dwarf #3,Wakes Up
+5,22:35,Dwarf #3,Finishes
+5,03:40,Dwarf #4,Starts
+5,21:22,Dwarf #4,Finishes
+5,01:43,Dwarf #5,Starts
+5,08:50,Dwarf #5,Falls Asleep
+5,09:54,Dwarf #5,Wakes Up
+5,20:40,Dwarf #5,Finishes
+5,01:35,Dwarf #6,Starts
+5,08:48,Dwarf #6,Falls Asleep
+5,10:39,Dwarf #6,Wakes Up
+5,20:50,Dwarf #6,Finishes
+5,01:34,Dwarf #7,Starts
+5,09:09,Dwarf #7,Falls Asleep
+5,10:56,Dwarf #7,Wakes Up
+5,20:46,Dwarf #7,Finishes
+6,01:13,Dwarf #1,Starts
+6,06:37,Dwarf #1,Falls Asleep
+6,08:14,Dwarf #1,Wakes Up
+6,22:39,Dwarf #1,Finishes
+6,03:03,Dwarf #2,Starts
+6,20:32,Dwarf #2,Finishes
+6,01:00,Dwarf #3,Starts
+6,09:59,Dwarf #3,Falls Asleep
+6,11:25,Dwarf #3,Wakes Up
+6,21:20,Dwarf #3,Finishes
+6,03:01,Dwarf #4,Starts
+6,23:02,Dwarf #4,Finishes
+6,02:59,Dwarf #5,Starts
+6,22:44,Dwarf #5,Finishes
+6,03:39,Dwarf #6,Starts
+6,20:23,Dwarf #6,Finishes
+6,02:21,Dwarf #7,Starts
+6,19:01,Dwarf #7,Finishes
+7,02:41,Dwarf #1,Starts
+7,23:50,Dwarf #1,Finishes
+7,03:43,Dwarf #2,Starts
+7,20:35,Dwarf #2,Finishes
+7,02:36,Dwarf #3,Starts
+7,19:14,Dwarf #3,Finishes
+7,01:40,Dwarf #4,Starts
+7,10:47,Dwarf #4,Falls Asleep
+7,11:52,Dwarf #4,Wakes Up
+7,20:23,Dwarf #4,Finishes
+7,01:24,Dwarf #5,Starts
+7,09:05,Dwarf #5,Falls Asleep
+7,10:22,Dwarf #5,Wakes Up
+7,20:52,Dwarf #5,Finishes
+7,02:04,Dwarf #6,Starts
+7,18:59,Dwarf #6,Finishes
+7,01:14,Dwarf #7,Starts
+7,07:42,Dwarf #7,Falls Asleep
+7,08:44,Dwarf #7,Wakes Up
+7,22:59,Dwarf #7,Finishes
+8,01:25,Dwarf #1,Starts
+8,08:04,Dwarf #1,Falls Asleep
+8,09:28,Dwarf #1,Wakes Up
+8,20:45,Dwarf #1,Finishes
+8,03:38,Dwarf #2,Starts
+8,21:17,Dwarf #2,Finishes
+8,01:32,Dwarf #3,Starts
+8,11:07,Dwarf #3,Falls Asleep
+8,12:11,Dwarf #3,Wakes Up
+8,22:44,Dwarf #3,Finishes
+8,03:18,Dwarf #4,Starts
+8,18:56,Dwarf #4,Finishes
+8,02:11,Dwarf #5,Starts
+8,23:02,Dwarf #5,Finishes
+8,01:53,Dwarf #6,Starts
+8,09:18,Dwarf #6,Falls Asleep
+8,10:25,Dwarf #6,Wakes Up
+8,20:47,Dwarf #6,Finishes
+8,01:38,Dwarf #7,Starts
+8,10:28,Dwarf #7,Falls Asleep
+8,11:48,Dwarf #7,Wakes Up
+8,23:55,Dwarf #7,Finishes
+9,02:57,Dwarf #1,Starts
+9,19:08,Dwarf #1,Finishes
+9,01:03,Dwarf #2,Starts
+9,08:24,Dwarf #2,Falls Asleep
+9,09:37,Dwarf #2,Wakes Up
+9,20:28,Dwarf #2,Finishes
+9,01:09,Dwarf #3,Starts
+9,09:22,Dwarf #3,Falls Asleep
+9,10:23,Dwarf #3,Wakes Up
+9,23:53,Dwarf #3,Finishes
+9,02:22,Dwarf #4,Starts
+9,21:54,Dwarf #4,Finishes
+9,03:15,Dwarf #5,Starts
+9,20:53,Dwarf #5,Finishes
+9,03:45,Dwarf #6,Starts
+9,18:26,Dwarf #6,Finishes
+9,03:36,Dwarf #7,Starts
+9,22:28,Dwarf #7,Finishes
+10,01:51,Dwarf #1,Starts
+10,10:37,Dwarf #1,Falls Asleep
+10,12:31,Dwarf #1,Wakes Up
+10,21:49,Dwarf #1,Finishes
+10,02:01,Dwarf #2,Starts
+10,20:04,Dwarf #2,Finishes
+10,01:41,Dwarf #3,Starts
+10,06:45,Dwarf #3,Falls Asleep
+10,07:58,Dwarf #3,Wakes Up
+10,20:05,Dwarf #3,Finishes
+10,03:30,Dwarf #4,Starts
+10,21:46,Dwarf #4,Finishes
+10,02:01,Dwarf #5,Starts
+10,21:11,Dwarf #5,Finishes
+10,01:49,Dwarf #6,Starts
+10,08:36,Dwarf #6,Falls Asleep
+10,10:18,Dwarf #6,Wakes Up
+10,20:17,Dwarf #6,Finishes
+10,01:33,Dwarf #7,Starts
+10,09:49,Dwarf #7,Falls Asleep
+10,11:45,Dwarf #7,Wakes Up
+10,21:26,Dwarf #7,Finishes
+11,03:14,Dwarf #1,Starts
+11,18:17,Dwarf #1,Finishes
+11,01:34,Dwarf #2,Starts
+11,07:20,Dwarf #2,Falls Asleep
+11,08:31,Dwarf #2,Wakes Up
+11,23:52,Dwarf #2,Finishes
+11,01:36,Dwarf #3,Starts
+11,09:13,Dwarf #3,Falls Asleep
+11,10:31,Dwarf #3,Wakes Up
+11,21:32,Dwarf #3,Finishes
+11,03:40,Dwarf #4,Starts
+11,19:36,Dwarf #4,Finishes
+11,01:30,Dwarf #5,Starts
+11,09:23,Dwarf #5,Falls Asleep
+11,10:32,Dwarf #5,Wakes Up
+11,23:13,Dwarf #5,Finishes
+11,03:35,Dwarf #6,Starts
+11,19:26,Dwarf #6,Finishes
+11,02:08,Dwarf #7,Starts
+11,22:50,Dwarf #7,Finishes
+12,03:04,Dwarf #1,Starts
+12,20:00,Dwarf #1,Finishes
+12,01:51,Dwarf #2,Starts
+12,07:37,Dwarf #2,Falls Asleep
+12,09:16,Dwarf #2,Wakes Up
+12,22:23,Dwarf #2,Finishes
+12,01:00,Dwarf #3,Starts
+12,07:49,Dwarf #3,Falls Asleep
+12,09:23,Dwarf #3,Wakes Up
+12,22:54,Dwarf #3,Finishes
+12,01:48,Dwarf #4,Starts
+12,07:57,Dwarf #4,Falls Asleep
+12,09:09,Dwarf #4,Wakes Up
+12,22:20,Dwarf #4,Finishes
+12,03:17,Dwarf #5,Starts
+12,19:01,Dwarf #5,Finishes
+12,03:32,Dwarf #6,Starts
+12,21:21,Dwarf #6,Finishes
+12,03:41,Dwarf #7,Starts
+12,18:10,Dwarf #7,Finishes
+13,03:56,Dwarf #1,Starts
+13,21:26,Dwarf #1,Finishes
+13,01:17,Dwarf #2,Starts
+13,07:00,Dwarf #2,Falls Asleep
+13,08:14,Dwarf #2,Wakes Up
+13,21:42,Dwarf #2,Finishes
+13,01:31,Dwarf #3,Starts
+13,11:00,Dwarf #3,Falls Asleep
+13,12:02,Dwarf #3,Wakes Up
+13,23:30,Dwarf #3,Finishes
+13,03:20,Dwarf #4,Starts
+13,19:07,Dwarf #4,Finishes
+13,02:45,Dwarf #5,Starts
+13,20:08,Dwarf #5,Finishes
+13,03:20,Dwarf #6,Starts
+13,18:24,Dwarf #6,Finishes
+13,01:33,Dwarf #7,Starts
+13,11:14,Dwarf #7,Falls Asleep
+13,13:01,Dwarf #7,Wakes Up
+13,23:39,Dwarf #7,Finishes
+14,01:01,Dwarf #1,Starts
+14,08:30,Dwarf #1,Falls Asleep
+14,09:59,Dwarf #1,Wakes Up
+14,20:02,Dwarf #1,Finishes
+14,01:44,Dwarf #2,Starts
+14,08:01,Dwarf #2,Falls Asleep
+14,09:29,Dwarf #2,Wakes Up
+14,21:09,Dwarf #2,Finishes
+14,03:35,Dwarf #3,Starts
+14,20:30,Dwarf #3,Finishes
+14,01:11,Dwarf #4,Starts
+14,09:30,Dwarf #4,Falls Asleep
+14,11:02,Dwarf #4,Wakes Up
+14,21:26,Dwarf #4,Finishes
+14,02:51,Dwarf #5,Starts
+14,18:07,Dwarf #5,Finishes
+14,01:52,Dwarf #6,Starts
+14,07:36,Dwarf #6,Falls Asleep
+14,09:21,Dwarf #6,Wakes Up
+14,22:20,Dwarf #6,Finishes
+14,01:26,Dwarf #7,Starts
+14,09:57,Dwarf #7,Falls Asleep
+14,11:25,Dwarf #7,Wakes Up
+14,21:19,Dwarf #7,Finishes
+15,02:02,Dwarf #1,Starts
+15,22:52,Dwarf #1,Finishes
+15,03:43,Dwarf #2,Starts
+15,20:17,Dwarf #2,Finishes
+15,01:02,Dwarf #3,Starts
+15,08:17,Dwarf #3,Falls Asleep
+15,09:52,Dwarf #3,Wakes Up
+15,21:04,Dwarf #3,Finishes
+15,02:34,Dwarf #4,Starts
+15,19:31,Dwarf #4,Finishes
+15,01:20,Dwarf #5,Starts
+15,08:01,Dwarf #5,Falls Asleep
+15,09:42,Dwarf #5,Wakes Up
+15,21:59,Dwarf #5,Finishes
+15,02:33,Dwarf #6,Starts
+15,20:39,Dwarf #6,Finishes
+15,01:21,Dwarf #7,Starts
+15,09:41,Dwarf #7,Falls Asleep
+15,11:37,Dwarf #7,Wakes Up
+15,23:36,Dwarf #7,Finishes
+16,01:07,Dwarf #1,Starts
+16,08:39,Dwarf #1,Falls Asleep
+16,09:56,Dwarf #1,Wakes Up
+16,20:51,Dwarf #1,Finishes
+16,03:08,Dwarf #2,Starts
+16,23:44,Dwarf #2,Finishes
+16,01:18,Dwarf #3,Starts
+16,11:08,Dwarf #3,Falls Asleep
+16,12:21,Dwarf #3,Wakes Up
+16,21:03,Dwarf #3,Finishes
+16,02:40,Dwarf #4,Starts
+16,21:36,Dwarf #4,Finishes
+16,03:28,Dwarf #5,Starts
+16,21:23,Dwarf #5,Finishes
+16,03:39,Dwarf #6,Starts
+16,22:22,Dwarf #6,Finishes
+16,02:32,Dwarf #7,Starts
+16,19:23,Dwarf #7,Finishes
+17,01:30,Dwarf #1,Starts
+17,09:06,Dwarf #1,Falls Asleep
+17,10:58,Dwarf #1,Wakes Up
+17,21:15,Dwarf #1,Finishes
+17,01:07,Dwarf #2,Starts
+17,10:35,Dwarf #2,Falls Asleep
+17,11:41,Dwarf #2,Wakes Up
+17,21:24,Dwarf #2,Finishes
+17,02:37,Dwarf #3,Starts
+17,23:49,Dwarf #3,Finishes
+17,02:54,Dwarf #4,Starts
+17,21:18,Dwarf #4,Finishes
+17,03:58,Dwarf #5,Starts
+17,19:01,Dwarf #5,Finishes
+17,01:34,Dwarf #6,Starts
+17,10:28,Dwarf #6,Falls Asleep
+17,12:10,Dwarf #6,Wakes Up
+17,23:33,Dwarf #6,Finishes
+17,03:12,Dwarf #7,Starts
+17,23:13,Dwarf #7,Finishes
+18,02:49,Dwarf #1,Starts
+18,21:00,Dwarf #1,Finishes
+18,03:47,Dwarf #2,Starts
+18,22:34,Dwarf #2,Finishes
+18,02:29,Dwarf #3,Starts
+18,22:28,Dwarf #3,Finishes
+18,02:02,Dwarf #4,Starts
+18,20:55,Dwarf #4,Finishes
+18,02:53,Dwarf #5,Starts
+18,22:14,Dwarf #5,Finishes
+18,01:24,Dwarf #6,Starts
+18,10:08,Dwarf #6,Falls Asleep
+18,11:46,Dwarf #6,Wakes Up
+18,22:00,Dwarf #6,Finishes
+18,01:47,Dwarf #7,Starts
+18,06:55,Dwarf #7,Falls Asleep
+18,08:40,Dwarf #7,Wakes Up
+18,23:41,Dwarf #7,Finishes
+19,01:46,Dwarf #1,Starts
+19,09:36,Dwarf #1,Falls Asleep
+19,11:01,Dwarf #1,Wakes Up
+19,23:50,Dwarf #1,Finishes
+19,01:01,Dwarf #2,Starts
+19,10:51,Dwarf #2,Falls Asleep
+19,12:08,Dwarf #2,Wakes Up
+19,22:27,Dwarf #2,Finishes
+19,01:46,Dwarf #3,Starts
+19,08:11,Dwarf #3,Falls Asleep
+19,09:46,Dwarf #3,Wakes Up
+19,23:58,Dwarf #3,Finishes
+19,03:34,Dwarf #4,Starts
+19,21:56,Dwarf #4,Finishes
+19,01:16,Dwarf #5,Starts
+19,06:39,Dwarf #5,Falls Asleep
+19,08:15,Dwarf #5,Wakes Up
+19,20:31,Dwarf #5,Finishes
+19,01:18,Dwarf #6,Starts
+19,10:46,Dwarf #6,Falls Asleep
+19,11:46,Dwarf #6,Wakes Up
+19,22:42,Dwarf #6,Finishes
+19,01:54,Dwarf #7,Starts
+19,07:36,Dwarf #7,Falls Asleep
+19,09:12,Dwarf #7,Wakes Up
+19,22:42,Dwarf #7,Finishes
+20,01:13,Dwarf #1,Starts
+20,06:41,Dwarf #1,Falls Asleep
+20,08:07,Dwarf #1,Wakes Up
+20,22:19,Dwarf #1,Finishes
+20,02:25,Dwarf #2,Starts
+20,19:14,Dwarf #2,Finishes
+20,01:47,Dwarf #3,Starts
+20,09:17,Dwarf #3,Falls Asleep
+20,10:27,Dwarf #3,Wakes Up
+20,23:44,Dwarf #3,Finishes
+20,01:35,Dwarf #4,Starts
+20,10:42,Dwarf #4,Falls Asleep
+20,12:25,Dwarf #4,Wakes Up
+20,20:54,Dwarf #4,Finishes
+20,02:27,Dwarf #5,Starts
+20,21:34,Dwarf #5,Finishes
+20,01:15,Dwarf #6,Starts
+20,09:12,Dwarf #6,Falls Asleep
+20,10:35,Dwarf #6,Wakes Up
+20,22:59,Dwarf #6,Finishes
+20,01:54,Dwarf #7,Starts
+20,11:14,Dwarf #7,Falls Asleep
+20,12:25,Dwarf #7,Wakes Up
+20,21:52,Dwarf #7,Finishes
